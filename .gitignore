@@ -1,0 +1,11 @@
+# Pathes
+build/
+test/
+dist/
+nbproject/
+
+# Files
+res/Thumbs.db
+build.xml
+*.mf
+config*.json

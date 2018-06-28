@@ -1,0 +1,41 @@
+#Urlaub
+#
+Urlaub vom 01.08.2018 bis 31.08.2018
+
+
+#Vertretung1
+#
+Urlaubsvertretung
+vom 01. - 03.08.2018
+
+Frau Dr. med. R. Grygas
+Gr&uuml;nauer Str. 60
+12524 Berlin
+
+Tel. 030 6731375
+
+#Vertretung2
+#
+Urlaubsvertretung
+vom 06. - 17.08.2018
+
+Frau Dr. Eckermann
+Schwalbenweg 36
+12526 Berlin
+
+Tel. 030 6721404
+
+#Vertretung3
+#
+Urlaubsvertretung
+vom 20. - 31.08.2018
+
+Frau Dr. Schwiedergall
+Britzer Damm 106
+12347 Berlin
+
+Tel. 030 6613166
+
+#Bemerkung
+#
+Um telefonische Voranmeldung wird gebeten!
