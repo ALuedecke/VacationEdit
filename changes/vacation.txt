@@ -1,41 +1,42 @@
 #Urlaub
-#
-Urlaub vom 01.08.2018 bis 31.08.2018
-
+#x
+Urlaub:
+&nbsp;&nbsp;&nbsp;vom&nbsp;&nbsp;23.08.2018&nbsp;&nbsp;&nbsp;bis&nbsp;&nbsp;&nbsp;27.08.2018
+&nbsp;&nbsp;&nbsp;&nbsp;und&nbsp;&nbsp;03.09.2018&nbsp;&nbsp;&nbsp;bis&nbsp;&nbsp;&nbsp;08.09.2018
 
 #Vertretung1
 #
 Urlaubsvertretung
-vom 01. - 03.08.2018
+vom&nbsp;23.08.&nbsp;&nbsp;-&nbsp;&nbsp;27.08.2018
 
-Frau Dr. med. R. Grygas
-Gr&uuml;nauer Str. 60
-12524 Berlin
+Frau&nbsp;Dr.&nbsp;med.&nbsp;R.&nbsp;Grygas
+Gr&uuml;nauer&nbsp;Str.&nbsp;60
+12524&nbsp;Berlin
 
-Tel. 030 6731375
+Tel.&nbsp;030&nbsp;6731375
 
 #Vertretung2
 #
 Urlaubsvertretung
-vom 06. - 17.08.2018
+vom&nbsp;06.&nbsp;-&nbsp;17.08.2018
 
-Frau Dr. Eckermann
-Schwalbenweg 36
-12526 Berlin
+Frau&nbsp;Dr.&nbsp;Eckermann
+Schwalbenweg&nbsp;36
+12526&nbsp;Berlin
 
-Tel. 030 6721404
+Tel.&nbsp;030&nbsp;6721404
 
 #Vertretung3
 #
 Urlaubsvertretung
-vom 20. - 31.08.2018
+vom&nbsp;20.&nbsp;-&nbsp;31.08.2018
 
-Frau Dr. Schwiedergall
-Britzer Damm 106
-12347 Berlin
+Frau&nbsp;Dr.&nbsp;Schwiedergall
+Britzer&nbsp;Damm&nbsp;106
+12347&nbsp;Berlin
 
-Tel. 030 6613166
+Tel.&nbsp;030&nbsp;6613166
 
 #Bemerkung
 #
-Um telefonische Voranmeldung wird gebeten!
+Um&nbsp;telefonische&nbsp;Voranmeldung&nbsp;wird&nbsp;gebeten!

@@ -76,9 +76,10 @@ public class FileIO {
         String line;
 
         while ((line = reader.readLine()) != null) {
-            //Replace html-&[x]uml;
+            //Replace from  html-&[x]uml;
             line = line.replaceAll("&Auml;", "Ä").replaceAll("&Ouml;", "Ö").replaceAll("&Uuml;", "Ü");
             line = line.replaceAll("&auml;", "ä").replaceAll("&ouml;", "ö").replaceAll("&uuml;", "ü");
+            line = line.replaceAll("&nbsp;", " ");
             if (first_line) {
                 out.append(line);
                 first_line = false;
@@ -104,8 +105,10 @@ public class FileIO {
         BufferedWriter writer;
         File target;
         FileOutputStream out;
+        //Replace to html-&[x]uml;
         String text = content.replaceAll("Ä", "&Auml;").replaceAll("Ö", "&Ouml;").replaceAll("Ü", "&Uuml;");
         text = text.replaceAll("ä", "&auml;").replaceAll("ö", "&ouml;").replaceAll("ü", "&uuml;");
+        text = text.replaceAll(" ", "&nbsp;");
         
         target = new File(file_name);
         out = new FileOutputStream(target);
